@@ -1,0 +1,64 @@
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+ background-color:blue;
+  
+}
+
+.header{
+  position: fixed;
+  left: 0;
+  top: 0;
+  right:0;
+  width: 100%;
+  color: white;
+  text-align: center;
+ background-color:blue;
+ /* border:2px solid red; */
+ height:20px;
+}
+ .nav img{
+  height: 50px;
+  width: 50px;
+  position:absolute;
+  top:0px;
+  left:0;
+  /* border:2px solid red; */
+}
+ .nav h1{
+  position:relative;
+  top:0px;
+  left:52px;
+  /* border: 2px solid red; */
+  display: inline;
+  
+}
+ .nav p{
+position:relative;
+top:25px;
+right:50px;
+/* border:2px solid red; */
+display:inline;
+}
+.nav ul li{
+  /* border:2px solid red; */
+  position: relative;
+  left:800px;
+  display:inline;
+  top:12px;
+  padding-left:70px;
+  font-style:italic ;
+  font-weight:200px;
+}
+.nav {
+  background-color: rgb(171, 176, 180);
+  height:100px;
+  top:20px;
+  left:0;
+  right:0;
+  position: fixed;
+}
